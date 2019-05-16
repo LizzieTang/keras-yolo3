@@ -1,0 +1,19 @@
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster52.jpg 451,4,1083,733,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster14.jpg 81,117,484,454,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster46.jpg 528,121,986,659,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster22.jpg 130,111,358,330,0 326,102,503,339,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster38.jpg 82,107,259,251,0 232,132,398,251,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster2.jpg 293,103,738,640,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster7.jpg 346,206,928,896,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster9.jpg 153,121,632,636,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster17.jpg 187,289,527,591,0 531,264,902,587,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster20.jpg 68,47,526,442,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster1.jpg 250,30,485,279,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster27.jpg 175,74,503,385,0 318,31,608,294,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster21.jpg 116,162,406,414,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster5.jpg 97,53,338,186,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster31.jpg 274,116,778,609,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster37.jpg 43,111,299,355,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster28.jpg 199,90,764,578,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster34.jpg 180,45,593,491,0
+/home/leyi/下载/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hamster59.jpg 264,46,1175,714,0
