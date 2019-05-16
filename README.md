@@ -52,7 +52,7 @@ optional arguments:
 ## Training
 
 1. Generate your own annotation file and class names file. This step can use labelimg by [EddyGao/make_VOC2007
-()](https://github.com/EddyGao/make_VOC2007).
+](https://github.com/EddyGao/make_VOC2007).
     One row for one image;  
     Row format: `image_file_path box1 box2 ... boxN`;  
     Box format: `x_min,y_min,x_max,y_max,class_id` (no space).  
@@ -72,7 +72,7 @@ optional arguments:
     Use your trained weights or checkpoint weights with command line option `--model model_file` when using yolo_video.py
     Remember to modify class path or anchor path, with `--classes class_file` and `--anchors anchor_file`.
 
-If you want to use original pretrained weights for YOLOv3:  
+If you want to use original pretrained weights for YOLOv3:(if the following link is invalid, visit [YOLO website](http://pjreddie.com/darknet/yolo/).)  
     1. `wget https://pjreddie.com/media/files/darknet53.conv.74`  
     2. rename it as darknet53.weights  
     3. `python convert.py -w darknet53.cfg darknet53.weights model_data/darknet53_weights.h5`  
@@ -82,8 +82,9 @@ If you want to use original pretrained weights for YOLOv3:
 
 ## Some issues to know
 
-1. The test environment is
-    - Python 3.5.2
+1. The test and train environment is: (virtual box)
+    - Ubuntu 16.04
+    - Python 3.6.8
     - Keras 2.1.5
     - tensorflow 1.6.0
 
