@@ -1,3 +1,7 @@
+'''
+Test the model with arguments (-image)
+'''
+
 import sys
 import argparse
 from yolo1 import YOLO, detect_video
