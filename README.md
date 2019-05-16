@@ -4,8 +4,8 @@
 
 ## Introduction
 
-A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [qqwweee/keras-yolo3](https://github.com/allanzelener/YAD2K).
-
+A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
+This version can be used via virtual box.
 
 ---
 
@@ -51,7 +51,8 @@ optional arguments:
 
 ## Training
 
-1. Generate your own annotation file and class names file.  
+1. Generate your own annotation file and class names file. This step can use labelimg by [EddyGao/make_VOC2007
+()](https://github.com/EddyGao/make_VOC2007).
     One row for one image;  
     Row format: `image_file_path box1 box2 ... boxN`;  
     Box format: `x_min,y_min,x_max,y_max,class_id` (no space).  
