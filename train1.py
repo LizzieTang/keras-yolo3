@@ -1,5 +1,6 @@
 """
 Retrain the YOLO model for your own dataset.
+val_split, batch_size can be modified.
 """
 
 import numpy as np
